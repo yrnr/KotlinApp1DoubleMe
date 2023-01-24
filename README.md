@@ -15,4 +15,4 @@ Second fragment shows the argument in its' textviews as '2+2' and '4' respective
 
 Click this button on second fragment, it will send argument '4' to first fragment.
 
-And it goes on doubling the number, until it becomes as big as a Kotlin's BigInteger data type can hold.
+And it goes on doubling the number, until it becomes as big as a Kotlin's BigInteger data type can hold in memory.
